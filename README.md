@@ -5,5 +5,7 @@ Each Cryptopunks data is in Cryptopunks_v1 or Cryptopunks_v2. Both uses Cryptopu
 Transactions.cvs has all the transaction history for each Cryptopunk.
 
 Credentials: 
+
 https://github.com/cryptopunksnotdead/punks.attributes
+
 https://github.com/Omni-Analytics-Group/eth-data-science-course
